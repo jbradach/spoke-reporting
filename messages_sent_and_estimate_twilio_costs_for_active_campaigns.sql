@@ -1,3 +1,4 @@
+###IN PROGRESS###
 SELECT c.id  AS camp_id,
        c.title AS camp_title,
        c.organization_id AS org_id,
